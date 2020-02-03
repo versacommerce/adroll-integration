@@ -30,8 +30,8 @@ This file is empty because it's not needed for this integration.
 ## Configuration options for this integration.
 | Label          | Key           | Default-Value  | Required?  |
 | -------------- | ------------- | -------------- | :--------: |
-| Advertiser ID  | adroll_avd_id | Default Value  | √          |
-| Pixel ID       | adroll_pix_id | Default Value  | √          |
+| Advertiser ID  | adroll_avd_id |                | √          |
+| Pixel ID       | adroll_pix_id |                | √          |
 
 
 ##  Customization
