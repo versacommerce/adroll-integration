@@ -1,5 +1,5 @@
-[<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-[<img src="integration_logo.png" width="90px" align="right" alt="adroll.com">](https://www.adroll.com/?utm_source=www.versacommerce.de)
+[<img src="versacommerce.png" width="250px" height="70px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
+[<img src="integration_logo.png" width="200px" height="100px" align="right" alt="adroll.com">](https://www.adroll.com/?utm_source=www.versacommerce.de)
 
 # AdRoll Integration for VersaCommerce
 
